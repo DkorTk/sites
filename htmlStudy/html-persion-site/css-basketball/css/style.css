@@ -1,0 +1,28 @@
+/*************tagSelection*****************/
+h1 {
+    color: red;
+    font-size: 90px;
+}
+img {
+    background-color: yellowgreen;
+}
+img:hover {
+    background-color: yellow;
+}
+/*************classSelection******************/
+.red-ball {
+    background-color: red;
+}
+.blue-ball {
+    background-color: blue;
+}
+.yellow {
+    color: yellow;
+}
+.circle {
+    border-radius: 100%;
+}
+/*****************idSelection**************************/
+#heading {
+    color: blueviolet;
+}
